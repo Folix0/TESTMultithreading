@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f6d91f2-e1d3-431b-b714-06b4a3c33ffa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Traffic/src/Road.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Traffic/src/Traffic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Traffic/src/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Traffic/src/Road.java" beforeDir="false" afterPath="$PROJECT_DIR$/Traffic/src/Road.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Traffic/src/Traffic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Traffic/src/Traffic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +37,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../prj3-2020-traffic-control-international-prj3-2020-group-05/prj3-2020-traffic-control-international-prj3-2020-group-10/JavaFX-SDK/javafx-sdk-11.0.2/lib" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -79,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607533640316</updated>
-      <workItem from="1607533641494" duration="2043000" />
+      <workItem from="1607533641494" duration="4171000" />
     </task>
     <servers />
   </component>
