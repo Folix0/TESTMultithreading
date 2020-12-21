@@ -9,6 +9,8 @@ public class Car extends Participant{
         speed = 5;
     }
 
+    // TEST TEST 
+
 
     public void paintMe(Graphics g){
         g.setColor(Color.BLUE);

@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f6d91f2-e1d3-431b-b714-06b4a3c33ffa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Traffic/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Traffic/src/Pedestrian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traffic/src/Road.java" beforeDir="false" afterPath="$PROJECT_DIR$/Traffic/src/Road.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traffic/src/Traffic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Traffic/src/Traffic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traffic/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Traffic/src/Participant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Traffic/Road.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Traffic/Road.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Traffic/Traffic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Traffic/Traffic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Traffic/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Traffic/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Traffic/src/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +43,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration name="Traffic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11.0.5" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Traffic" />
-      <module name="Traffic" />
-      <option name="PROGRAM_PARAMETERS" value="--module-path --add-modules javafx.controls,javafx.fxml" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -70,6 +50,16 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Traffic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Traffic" />
+      <module name="Traffic" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path --add-modules javafx.controls,javafx.fxml" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
