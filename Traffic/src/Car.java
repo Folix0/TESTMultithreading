@@ -9,7 +9,7 @@ public class Car extends Participant{
         speed = 5;
     }
 
-    // TEST TEST 
+    // TEST TEST
 
 
     public void paintMe(Graphics g){
